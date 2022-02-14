@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ ![Snake animation](https://github.com/amsyar99/amsyar99/blob/output/github-contribution-grid-snake.svg)
 <!--
 **amsyar99/amsyar99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
