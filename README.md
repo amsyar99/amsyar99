@@ -1,8 +1,8 @@
 ### Hi there, Im Amsyar here im creating a live i love 👋
 ## nomnom
-<div>
+
   ![snake gif](https://github.com/amsyar99/amsyar99/blob/output/github-contribution-grid-snake.gif)
-  </div>
+
 <!--
 **amsyar99/amsyar99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
